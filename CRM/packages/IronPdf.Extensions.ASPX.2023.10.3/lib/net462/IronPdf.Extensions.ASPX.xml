@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>IronPdf.Extensions.ASPX</name>
+    </assembly>
+    <members>
+        <member name="T:IronPdf.InternalAspxToPdf">
+            <summary>
+            Internal class, Please use IronPdf.AspxToPdf instead.
+            </summary>
+        </member>
+    </members>
+</doc>

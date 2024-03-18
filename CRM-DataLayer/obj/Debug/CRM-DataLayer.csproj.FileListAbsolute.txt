@@ -1,0 +1,6 @@
+C:\Users\Progr\source\repos\CRM Project\CRM-DataLayer\bin\Debug\CRM-DataLayer.dll
+C:\Users\Progr\source\repos\CRM Project\CRM-DataLayer\bin\Debug\CRM-DataLayer.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM-DataLayer\obj\Debug\CRM-DataLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\CRM Project\CRM-DataLayer\obj\Debug\CRM-DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\CRM Project\CRM-DataLayer\obj\Debug\CRM-DataLayer.dll
+C:\Users\Progr\source\repos\CRM Project\CRM-DataLayer\obj\Debug\CRM-DataLayer.pdb

@@ -1,0 +1,426 @@
+C:\Users\Progr\source\repos\TestForLastProjectISBig\bin\Debug\TestForLastProjectISBig.exe.config
+C:\Users\Progr\source\repos\TestForLastProjectISBig\bin\Debug\TestForLastProjectISBig.exe
+C:\Users\Progr\source\repos\TestForLastProjectISBig\bin\Debug\TestForLastProjectISBig.pdb
+C:\Users\Progr\source\repos\TestForLastProjectISBig\bin\Debug\Guna.UI2.dll
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmBank.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmCalendar.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmCompanies.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmCustomers.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmDocuments.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmOrders.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmProducts.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmReports.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmInvoices.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmAdmins.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmUtilites.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.MainFormForAdmins.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.frmDashpoord.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.frmStartForm.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmDashpoordForCustomer.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmDocumentsForCustomers.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmInvoicesForCustomers.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmMainFormForCoustomer.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmOrderForCustomers.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmProileForCustomers.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmQuotesForCustomers.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Customer.frmTransactonsForCustomer.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.frmTest.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Properties.Resources.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\CRM.csproj.GenerateResource.cache
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\CRM.csproj.CopyComplete
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.exe
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.pdb
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.AdminInfo.frmAddEditAdmin.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Settings.frmPermissions.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Bank.frmAddEditAccount.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Customers.frmAddEditCusteomrs.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmGroups.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Orders.frmAddEditOrder.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Sales.Invoice.frmAddEditInvoice.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Sales.Payment.frmAddEditPayment.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmPayments.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Sales.Quete.frmAddEditQuete.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmQuotes.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.frmService.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Settings.frmCurrencies.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Settings.frmExpenseGategory.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Settings.frmPaymentGategory.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Settings.frmPaymentMehod.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Settings.frmManageTax.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Transactions.Deposit.frmAddEditDeposit.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Transactions.frmAddEditExpenses.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Transactions.frmManageTransactions.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Transactions.frmTransfare.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Settings.frmIncomeCategory.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Products.frmAddEditProduct.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Reports.frmAddEditReport.resources
+C:\Users\Progr\source\repos\TestForLastProjectISBig\obj\Debug\TestForLastProjectISBig.Admin.Services.frmAddEditService.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Guna.UI2.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.AdminInfo.frmAddEditAdmin.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Bank.frmAddEditAccount.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmBank.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmCalendar.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmCompanies.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Customers.frmAddEditCusteomrs.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmCustomers.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmDocuments.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Orders.frmAddEditOrder.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmOrders.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmProducts.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmInvoices.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmAdmins.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Sales.Payment.frmAddEditPayment.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmPayments.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Sales.Quete.frmAddEditQuete.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmQuotes.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.frmService.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.frmPaymentGategory.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.frmPaymentMehod.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Transactions.Deposit.frmAddEditDeposit.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Transactions.frmAddEditExpenses.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Transactions.frmManageTransactions.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.MainFormForAdmins.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.frmDashpoord.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.frmStartForm.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmDocumentsForCustomers.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmInvoicesForCustomers.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmMainFormForCoustomer.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmOrderForCustomers.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmProileForCustomers.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmQuotesForCustomers.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmTransactonsForCustomer.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.csproj.GenerateResource.cache
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.csproj.CopyComplete
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\CRM.exe.config
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\CRM.exe
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\CRM.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Properties.Resources.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.exe
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\CRM-BussinsLayer.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\CRM-DataLayer.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\CRM-BussinsLayer.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\CRM-DataLayer.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Companies.frmAddEditCompany.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Customers.Groups.frmAddEditGroup.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\PdfSharp.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\PdfSharp.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\Chrome.Native.deployment.json
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\chrome_100_percent.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\chrome_200_percent.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\chrome_elf.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\concrt140.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\d3dcompiler_47.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\dxva2.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\icudtl.dat
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\IronCefSubprocess.exe
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\IronInterop.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\IronPdfInterop.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\libcef.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\libEGL.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\libGLESv2.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\af.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\am.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ar.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\bg.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\bn.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ca.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\cs.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\da.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\de.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\el.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\en-GB.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\en-US.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\es-419.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\es.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\et.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\fa.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\fi.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\fil.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\fr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\gu.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\he.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\hi.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\hr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\hu.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\id.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\it.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ja.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\kn.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ko.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\lt.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\lv.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ml.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\mr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ms.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\nb.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\nl.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\pl.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\pt-BR.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\pt-PT.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ro.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ru.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\sk.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\sl.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\sr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\sv.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\sw.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ta.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\te.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\th.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\tr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\uk.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\ur.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\vi.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\zh-CN.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\locales\zh-TW.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\resources.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\snapshot_blob.bin
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\ucrtbase.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\v8_context_snapshot.bin
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\vk_swiftshader.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x64\native\vulkan-1.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\Chrome.Native.deployment.json
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\chrome_100_percent.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\chrome_200_percent.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\chrome_elf.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\concrt140.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\d3dcompiler_47.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\dxva2.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\icudtl.dat
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\IronCefSubprocess.exe
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\IronInterop.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\IronPdfInterop.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\libcef.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\libEGL.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\libGLESv2.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\af.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\am.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ar.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\bg.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\bn.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ca.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\cs.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\da.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\de.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\el.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\en-GB.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\en-US.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\es-419.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\es.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\et.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\fa.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\fi.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\fil.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\fr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\gu.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\he.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\hi.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\hr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\hu.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\id.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\it.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ja.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\kn.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ko.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\lt.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\lv.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ml.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\mr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ms.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\nb.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\nl.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\pl.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\pt-BR.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\pt-PT.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ro.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ru.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\sk.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\sl.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\sr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\sv.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\sw.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ta.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\te.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\th.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\tr.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\uk.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\ur.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\vi.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\zh-CN.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\locales\zh-TW.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\msvcp140.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\resources.pak
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\snapshot_blob.bin
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\ucrtbase.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\v8_context_snapshot.bin
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\vk_swiftshader.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\runtimes\win-x86\native\vulkan-1.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Google.Protobuf.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Grpc.Core.Api.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Grpc.Core.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronPdf.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronPdf.Extensions.ASPX.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Abstractions.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Logger.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Shared.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Buffers.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Drawing.Common.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Memory.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Security.Permissions.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Text.Json.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.ValueTuple.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Google.Protobuf.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Google.Protobuf.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Grpc.Core.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Grpc.Core.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Grpc.Core.Api.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronPdf.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronPdf.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronPdf.Extensions.ASPX.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronPdf.Extensions.ASPX.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Abstractions.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Logger.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\IronSoftware.Shared.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Drawing.Common.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Security.Permissions.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Text.Json.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.ValueTuple.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Buffers.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Memory.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\itextsharp.dll
+C:\Users\Progr\source\repos\CRM Project\CRM\bin\Debug\itextsharp.xml
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Customers.ctrlPersonalInformation.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Customers.frmCustomerInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Customers.Controls.ctrlAccountingSummary.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Companies.ctrlCompanyInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Companies.frmCompanyInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Bank.Control.ctrlBankAccountInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Bank.frmBankAccountInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Transactions.frmAddEditTransaction.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Customers.Controls.ctrlCustomerInfoWithFillter.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Bank.Control.ctrlBankAccountWithFillter.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Calendar.ctrlAddEditEvent.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Products.ctrlAddEditProducts.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Services.ctrlAddEditServices.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Products.frmAddEditProductGategory.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Orders.Controls.ctrlOrderCard.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.frmLogin.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.ctrlloginAsAdmin.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.ctrlLoginAsCustomer.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Products.frmProductInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Services.frmServiceInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Orders.frmOrderInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.ctrlInvoiceInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.frmPrintInvoiceForCustomer.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.InvoicesCustomer.frmPayForCustomerInvoice.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Sales.Invoice.frmPayForAdmins.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Sales.Invoice.frmPrintInvoiceForAdmins.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.Payment.ctrlPaymentMethodsAddEdit.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.Payment.ctrlPaymentMethodInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.Payment.EditPaymentMethod.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.Payment.ctrlPaymentGategoryAddEdit.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.Payment.ctrlPaymentGategoryInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Settings.Payment.EditPaymentGategory.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.AdminInfo.ctrlAdminInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.AdminInfo.frmAdminInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Sales.Quete.ctrlQuotesInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.QuotesForCustomer.ctrlQutesinfoForCustomer.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Sales.Quete.frmQuotesInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Documents.ctrlPdfCocumantInfo.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Admin.Documents.frmAddDocumantToCustomer.resources
+C:\Users\Progr\source\repos\CRM Project\CRM\obj\Debug\CRM.Customer.Documants.ctrlDocumantInfo.resources

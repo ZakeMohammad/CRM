@@ -1,0 +1,8 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+C:/Users/Progr/source/repos/CRM[[:space:]]Project/CRM/to/large/file filter=lfs diff=lfs merge=lfs -text
+CRM[[:space:]]Project filter=lfs diff=lfs merge=lfs -text
+*.nupkg filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+CRM/bin/Debug/runtimes/win-x64/native/libcef.dll filter=lfs diff=lfs merge=lfs -text
+CRM/bin/Debug/runtimes/win-x86/native/libcef.dll filter=lfs diff=lfs merge=lfs -text
+CRM/packages/IronPdf.Native.Chrome.Windows.2023.12.8/IronPdf.Native.Chrome.Windows.2023.12.8.nupkg filter=lfs diff=lfs merge=lfs -text

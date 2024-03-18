@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<Target Name="NetFrameworkWarning" BeforeTargets="Build" Condition="'$(TargetFramework)' == 'net40' Or '$(TargetFramework)' == 'net403' Or '$(TargetFramework)' == 'net45' Or '$(TargetFramework)' == 'net451' Or '$(TargetFramework)' == 'net452' Or '$(TargetFramework)' == 'net46' Or '$(TargetFramework)' == 'net461'">
+		<Warning Text="IronPdf is dropping support for .NET Framework 4.0 - 4.6.1. Please migrate your project to .NET Framework 4.6.2 or later."/>
+	</Target>
+</Project>

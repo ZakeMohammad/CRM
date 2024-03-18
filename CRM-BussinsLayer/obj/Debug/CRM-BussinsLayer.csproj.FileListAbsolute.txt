@@ -1,0 +1,9 @@
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\bin\Debug\CRM-BussinsLayer.dll
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\bin\Debug\CRM-BussinsLayer.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\bin\Debug\CRM-DataLayer.dll
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\bin\Debug\CRM-DataLayer.pdb
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\obj\Debug\CRM-BussinsLayer.csproj.AssemblyReference.cache
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\obj\Debug\CRM-BussinsLayer.csproj.CoreCompileInputs.cache
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\obj\Debug\CRM-BussinsLayer.csproj.CopyComplete
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\obj\Debug\CRM-BussinsLayer.dll
+C:\Users\Progr\source\repos\CRM Project\CRM-BussinsLayer\obj\Debug\CRM-BussinsLayer.pdb
